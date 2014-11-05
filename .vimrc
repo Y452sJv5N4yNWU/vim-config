@@ -11,3 +11,5 @@ set hlsearch
 set tabstop=4
 set number
 highlight LineNr ctermfg=white ctermbg=darkgrey
+set nobackup
+set nowritebackup
