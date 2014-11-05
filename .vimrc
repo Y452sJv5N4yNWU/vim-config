@@ -9,4 +9,5 @@ set incsearch
 syntax on
 set hlsearch
 set tabstop=4
-
+set number
+highlight LineNr ctermfg=white ctermbg=darkgrey
